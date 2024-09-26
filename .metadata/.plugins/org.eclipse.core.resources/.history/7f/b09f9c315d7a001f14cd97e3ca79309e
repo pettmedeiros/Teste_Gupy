@@ -1,0 +1,8 @@
+package model_entities;
+
+public abstract class AbstractShape implements Shape {
+	
+	private Color color;
+	
+
+}
