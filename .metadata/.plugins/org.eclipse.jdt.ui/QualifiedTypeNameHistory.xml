@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="entities.ProductMelhorado"/>
-    <fullyQualifiedTypeName name="entities.ContaBancariaEx05"/>
-    <fullyQualifiedTypeName name="entities.FuncionarioEx"/>
-    <fullyQualifiedTypeName name="java.time.Instant"/>
-    <fullyQualifiedTypeName name="java.time.ZoneId"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-    <fullyQualifiedTypeName name="entities.Comment"/>
-    <fullyQualifiedTypeName name="entities.Cliente"/>
-    <fullyQualifiedTypeName name="entities_enums.OrderStatus"/>
     <fullyQualifiedTypeName name="entities.Order"/>
     <fullyQualifiedTypeName name="entities.Product"/>
     <fullyQualifiedTypeName name="entities.OutsourcedEmployee"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="entities.enums.Color"/>
     <fullyQualifiedTypeName name="entities.Shape"/>
     <fullyQualifiedTypeName name="entities.rectangle"/>
@@ -40,7 +29,6 @@
     <fullyQualifiedTypeName name="model.entities.CarRental"/>
     <fullyQualifiedTypeName name="Services.RentalService"/>
     <fullyQualifiedTypeName name="java.time.Duration"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatterBuilder"/>
@@ -56,8 +44,20 @@
     <fullyQualifiedTypeName name="model_entities.Rectangle"/>
     <fullyQualifiedTypeName name="model_entities.Circle"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="enitities.LogEntry"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilder"/>
+    <fullyQualifiedTypeName name="javax.swing.text.Document"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.NodeList"/>
+    <fullyQualifiedTypeName name="javax.xml.parsers.DocumentBuilderFactory"/>
 </qualifiedTypeNameHistroy>
